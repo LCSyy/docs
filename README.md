@@ -4,6 +4,7 @@
 - Computer Graphics
 - C++
 - Python
+- Git
 - [Qt...](https://github.com/LCSyy/QtBook/blob/master/README.md)
 
 ## doc's structures
