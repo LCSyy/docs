@@ -16,3 +16,7 @@ docs/
     |-- content/
     |-- misc/
 ```
+
+## misc
+
+[Semantic Versioning](https://semver.org/)
