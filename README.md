@@ -5,6 +5,7 @@
 - C++
 - Python
 - Git
+- [Godot Engine](./godot_engine/README.md)
 - [Qt...](https://github.com/LCSyy/QtBook/blob/master/README.md)
 
 ## doc's structures
