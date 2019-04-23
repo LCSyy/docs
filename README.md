@@ -2,6 +2,7 @@
 
 - [Design Patterns](./design_patterns//README.md)
 - Computer Graphics
+- [OpenGL](./opengl/README.md)
 - C++
 - Python
 - Git
